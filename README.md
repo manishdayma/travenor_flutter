@@ -1,19 +1,21 @@
 
-# 🔥🔥 Travenor - A FLutter Travel Application - Flutter UI 🔥🔥
+# 🔥Travenor - A FLutter Travel Application - Flutter UI🔥
 
-<h1 align="center">
-  Dayma Manish
-</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@manishdayma22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishdayma22)](https://twitter.com/manishdayma22)
 [![GitHub DaymaManish](https://img.shields.io/github/followers/DaymaManish?label=follow&style=social)](https://github.com/DaymaManish)
 [![Gmail Badge](https://img.shields.io/badge/-manishdayma65@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manishdayma65@gmail.com)](mailto:manishdayma65@gmail.com)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ishidayma)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymamanish/)
 <a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Star⭐ the repo if you like what you like more stuff on flutter 😉.
+
+## Some Screenshots For You 💖
+<br>
+
+<img src="screenshot/1.png">
+<img src="screenshot/2.png">
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
@@ -26,6 +28,32 @@ Star⭐ the repo if you like what you like more stuff on flutter 😉.
     and make changes to your App
   </p>
 </div>
+
+ <strong>
+   Screens included
+  </strong>
+  <p>
+  
+    1. Splash Screen
+    2. Onboarding Screens ( 3 Screens )
+    3. Login
+    4. Signup
+    5. Forgot Password
+    6. OTP Verification
+    7. Home
+    8. Details
+    9. Schedule
+    10. Profile
+    11. Messages
+    12. Chats
+    13. Favourite Places
+    14. Search 
+    15. Edit Profile
+    16. Notification
+    17. Popular Places
+  </p>
+
+
 
 
 ### Table of Contents
@@ -103,4 +131,6 @@ Resolve the errors and warnings that are shown in the application.
   https://pub.dev/packages/cached_network_image
     
 ### Support
+
+<a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50"></a>
 
