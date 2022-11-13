@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daymamanish/)
 <a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30"></a>
 
-Star⭐ the repo if you like what you like more stuff on flutter 😉.
+Star⭐ the repo if you like to see more stuff on flutter 😉.
 
 ## Some Screenshots For You 💖
 <br>
